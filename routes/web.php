@@ -21,4 +21,7 @@ Route::get('aboutus', function () {
 	echo 'Wolcome to About us';
 });
 
+Route::get('ContactUs', function () {
+	echo 'Wolcome to Contact Us';
+});
 
